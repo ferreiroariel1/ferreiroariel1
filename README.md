@@ -1,19 +1,23 @@
-# Hi there! 👋 I'm Ariel Ferreiro
+# ¡Hola! 👋 Soy Ariel Ferreiro
 
-## 👨‍💻 About Me
-I'm a Full Stack Developer with a strong commitment to teamwork and a 100% dedication to achieving goals. 🚀 I graduated from Henry, where I had the opportunity to work on various projects, gaining exposure to new technologies and enhancing my problem-solving skills. Constant collaboration in team projects has honed my ability to adapt to different development approaches as needed. 💻🔍
+## 👨‍💻 Sobre mí
+Soy un Desarrollador Full Stack con un fuerte compromiso hacia el trabajo en equipo y una dedicación del 100% para alcanzar objetivos. 🚀 Me gradué de Henry, donde tuve la oportunidad de trabajar en varios proyectos, adquiriendo conocimientos sobre nuevas tecnologías y mejorando mis habilidades para resolver problemas. La colaboración constante en proyectos de equipo ha afilado mi capacidad para adaptarme a diferentes enfoques de desarrollo según sea necesario. 💻🔍
 
-I am continually engaged in self-directed learning to further professionalize my skills and explore new aspects that contribute to my professional profile. 📚🧠
+Estoy constantemente inmerso en un aprendizaje autodirigido para profesionalizar aún más mis habilidades y explorar nuevos aspectos que contribuyan a mi perfil profesional. 📚🧠
 
-## 🚀 Skills
-- **Languages:** JavaScript (Node.js), HTML, CSS
-- **Frontend:** React.js, Redux.js
-- **Backend:** Express.js
-- **Databases:** SQL, PostgreSQL, Sequelize.js
+## 🚀 Habilidades
+-JavaScript  -
+-HTML 
+-CSS 
+-React.js 
+-Redux.js 
+-SQL 
+-PostgreSQL 
+-Sequelize.js 
+-Express.js 
+-Node.js
 
-## 🔗 Connect with Me
+## 🔗 Conéctate conmigo
 [LinkedIn](https://linkedin.com/in/ariel-ferreiro-30b153237/)
 
-## 🌐 Looking for Opportunities
-I am currently seeking job opportunities that will allow me to elevate my knowledge to the next level and continue growing in this vast field. If you are looking for someone with a solid technical background, an excellent team player, and genuine passion for web development, I would be delighted to contribute! 🤝💻
 
