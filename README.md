@@ -27,8 +27,19 @@ Estoy constantemente inmerso en un aprendizaje autodirigido para profesionalizar
 </div>
 
 
+### SoftSkills
+- colavorativo
+- autodidacta
+- proactivo
+- persistencia
+- resolucion de problemas
+- curioso
+- creativo
+
+
 
 ## 🔗 infomacion de contacto
 Linkedin= https://linkedin.com/in/ariel-ferreiro-30b153237/
+
 Gmail=ferreiroariel1@gmail.com
 
