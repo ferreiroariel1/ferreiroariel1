@@ -5,6 +5,11 @@ Soy un Desarrollador Full Stack con un fuerte compromiso hacia el trabajo en equ
 
 Estoy constantemente inmerso en un aprendizaje autodirigido para profesionalizar aún más mis habilidades y explorar nuevos aspectos que contribuyan a mi perfil profesional. 📚🧠
 
+## 🔗 infomacion de contacto 📞
+Linkedin= https://linkedin.com/in/ariel-ferreiro-30b153237/
+
+Gmail=ferreiroariel1@gmail.com
+
 ## 🚀 Habilidades
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
@@ -27,7 +32,7 @@ Estoy constantemente inmerso en un aprendizaje autodirigido para profesionalizar
 </div>
 
 
-### SoftSkills
+### SoftSkills 🌱
 - colavorativo
 - autodidacta
 - proactivo
@@ -38,8 +43,5 @@ Estoy constantemente inmerso en un aprendizaje autodirigido para profesionalizar
 
 
 
-## 🔗 infomacion de contacto
-Linkedin= https://linkedin.com/in/ariel-ferreiro-30b153237/
 
-Gmail=ferreiroariel1@gmail.com
 
