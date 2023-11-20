@@ -28,13 +28,7 @@ Estoy constantemente inmerso en un aprendizaje autodirigido para profesionalizar
 
 
 
-## 🔗 Información de Contacto
-<div align="left">
-  <a href="https://linkedin.com/in/ariel-ferreiro-30b153237/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
-  ferreiroariel1@gmail.com
-</div>
 
-
+## 🔗 infomacion de contacto
+[LinkedIn](https://linkedin.com/in/ariel-ferreiro-30b153237/)
+Gmail:ferreiroariel1@gmail.com
