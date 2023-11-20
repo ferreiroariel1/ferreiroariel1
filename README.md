@@ -30,5 +30,5 @@ Estoy constantemente inmerso en un aprendizaje autodirigido para profesionalizar
 
 
 ## 🔗 infomacion de contacto
-[LinkedIn](https://linkedin.com/in/ariel-ferreiro-30b153237/)
-Gmail:ferreiroariel1@gmail.com
+Linkedin= https://linkedin.com/in/ariel-ferreiro-30b153237/
+Gmail=ferreiroariel1@gmail.com
