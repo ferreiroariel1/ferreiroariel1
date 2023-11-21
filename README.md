@@ -33,13 +33,13 @@ Gmail=ferreiroariel1@gmail.com
 
 
 ### SoftSkills 🌱
-- Colaborativo
-- Autodidacta
-- Proactivo
-- Persistencia
-- Resolucion de problemas
-- Curioso
-- Creativo
+- Colaborativo💡
+- Autodidacta📚
+- Proactivo🚀
+- Persistencia🕰️
+- Resolucion de problemas🧩 
+- Curioso🔍
+- Creativo 🎨 
 
 
 
